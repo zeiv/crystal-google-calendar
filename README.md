@@ -34,4 +34,4 @@ TODO: Write instructions for development
 
 ## Contributors
 
-- Xavier Bick(https://github.com/zeiv])  - creator, maintainer
+- [Xavier Bick](https://github.com/zeiv)  - creator, maintainer
